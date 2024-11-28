@@ -16,4 +16,4 @@ O obejtivo do jogo é acertar o Ralph no quadrado no qual ele aparecerá, clican
 
 ## 📸 Screenshot
 
-<img url="https://github.com/G03d1/desafio-dio-detona-ralph/blob/main/detona-ralph-aula/src/Images/screenshot.jpg"/>
+<img src="detona-ralph-aula/screenshot.jpg"/>
