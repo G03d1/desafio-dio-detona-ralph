@@ -1,6 +1,6 @@
 # Desafio DIO | Game Detona Ralph
 
-Esse projeto consiste em um jogo onde o objetivo é acertar o Ralhp nos quadrados onde ele aparece.
+Esse projeto consiste em um jogo onde o objetivo é acertar o Ralph nos quadrados onde ele aparece.
 
 ## 📝 Descrição
 Projeto desenvolvido no boot camp Ri-Happy - Front-end do zero, com o Professor Felipe Aguiar da DIO.
@@ -16,4 +16,4 @@ O obejtivo do jogo é acertar o Ralph no quadrado no qual ele aparecerá, clican
 
 ## 📸 Screenshot
 
-<img url=""/>
+<img url="https://github.com/G03d1/desafio-dio-detona-ralph/blob/main/detona-ralph-aula/src/Images/screenshot.jpg"/>
